@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Reproducible Research Tools</title>
+      <title>Reproducible Research Tools 2</title>
       <link>https://alipirani88.github.io/2019/09/24/conda-containers-cwl/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://alipirani88.github.io/2019/09/24/conda-containers-cwl/</guid>
-      <description>Reproducible Research Tools for Bioinformatics Presentation Slides
-Reference Links: Articles  Nature discussion about the Reproducible Research Tools  Containers  A Beginner-Friendly Introduction to Containers, VMs and Docker Demystifying Containers 101: A Deep Dive Into Container Technology for Beginners Biocontainers ORCA Bioinformatics Container  CWL  Portable Bioinformatic Workflows with the Common Workflow Language CWL github CWL User Guide Melbourne Bioinformatics CWL/Docker Tutorials  Conda  DANG Conda on the Cloud Comparing bioinformatics workflow systems: nextflow, snakemake, reflow  Conda Best Tutorial Why use Conda?</description>
+      <description>This post is about the presentation where I talked about Reproducible Research tools that researchers in the field of Bioinformatics/Sceince are currently using to improve reproducibility, reusability and transparency in their research. Many of our data analysis process contain a mixture of systems, commands and libraries which demands a workflow system to log or manage our daily activities. Just like a wet lab personnel who maintains a lab notebook to jot down the methods/steps that they used to generate the results, it is necessary for a dry lab personnel to log each and every step, commands and system that they used that helped them generate the final results.</description>
     </item>
     
     <item>
